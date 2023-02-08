@@ -1,2 +1,1 @@
-# Learning_R
-tutorial of R
+Tutorial of R
