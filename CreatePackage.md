@@ -16,3 +16,8 @@ Create a collection of functions, data and compiled code
 5. Create a package -> structure is automatically generated, all R functions should be in the R folder
 6. Build package using "Install and Restart"
 7. Package can be loaded using library(package_name) and function can be used from a package 
+
+### Three ways to distribute package
+1. Build a source or binary package
+2. Upload it on Github
+3. Publish it on CRAN (official package repository) - https://cran.r-project.org/submit.html
