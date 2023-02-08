@@ -5,7 +5,7 @@ library("data.table")
 library("lubridate")
 
 #loading data
-df <- fread("/Users/nehasingh/Library/CloudStorage/OneDrive-Personal/UZH/2023/Spring_2023/R/day1/data/transactions.csv")
+df <- fread("<path_to_file>/transactions.csv")
 df #print data
 
 #selecting rows by row numbers
