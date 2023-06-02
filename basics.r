@@ -3,6 +3,7 @@ install.packages("lubridate")
 
 library("data.table")
 library("lubridate")
+#added for testing
 
 #loading data
 df <- fread("<path_to_file>/transactions.csv")
